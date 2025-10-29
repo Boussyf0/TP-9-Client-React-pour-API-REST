@@ -80,7 +80,7 @@ compte-client/
 - Badges de couleur pour différencier les types de comptes
 
 
-[Affichage des comptes](Screen/UI.png)
+![Affichage des comptes](Screen/UI.png)
 
 
 
@@ -91,7 +91,7 @@ compte-client/
 - Confirmation après ajout
 
 
-[Ajout d'un compte](Screen/Ajouter.png)
+![Ajout d'un compte](Screen/Ajouter.png)
 
 
 
@@ -104,7 +104,7 @@ compte-client/
 - Mise à jour en temps réel dans la liste
 
 
-[Modification d'un compte](Screen/Modifier.png)
+![Modification d'un compte](Screen/Modifier.png)
 
 
 
@@ -115,7 +115,7 @@ compte-client/
 - Mise à jour automatique de la liste
 
 
-[Suppression d'un compte](Screen/Supprimer.png)
+![Suppression d'un compte](Screen/Supprimer.png)
 
 
 
